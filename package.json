@@ -1,0 +1,14 @@
+{
+  "name": "sublime-sfv",
+  "version": "0.0.0",
+  "author": "Jan T. Sott",
+  "repository": "https://github.com/idleberg/sublime-sfv",
+  "license": "MIT OR GPL-2.0",
+  "private": true,
+  "devDependencies": {
+    "sublime-linter": "^0.4.0"
+  },
+  "scripts": {
+    "test": "sublime-linter"
+  }
+}

@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: Simple File Verification
+file_extensions:
+- sfv
+
+scope: source.sfv
+contexts:
+  main:
+    - match: ^\s*;.*$
+      name: comment.line.sfv
+
+    - match: \s+\w{8}$
+      name: constant.other.sfv
+
+uuid: BF88CF66-2DDB-4767-B5F9-37436A766A1D
