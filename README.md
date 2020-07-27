@@ -1,7 +1,7 @@
 # sublime-sfv
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/OpenVPN.svg?style=flat-square)](https://packagecontrol.io/packages/OpenVPN)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/SFV.svg?style=flat-square)](https://packagecontrol.io/packages/SFV)
 [![GitHub](https://img.shields.io/github/release/idleberg/sublime-sfv.svg?style=flat-square)](https://github.com/idleberg/sublime-sfv/releases)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/sublime-sfv)](https://circleci.com/gh/idleberg/sublime-sfv/)
 
