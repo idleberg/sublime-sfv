@@ -27,7 +27,7 @@ Syntax highlighting for SFV files (see [Simple File Verification](https://www.wi
 
 ## Related
 
-- [atom-sfv](https://github.com/idleberg/atom-language-sfv)
+- [atom-language-sfv](https://github.com/idleberg/atom-language-sfv)
 - [vscode-sfv](https://marketplace.visualstudio.com/items?itemName=idleberg.sfv)
 
 ## License
