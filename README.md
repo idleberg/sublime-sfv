@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/release/idleberg/sublime-sfv.svg?style=flat-square)](https://github.com/idleberg/sublime-sfv/releases)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/sublime-sfv)](https://circleci.com/gh/idleberg/sublime-sfv/)
 
-Syntax highlighting for SFV files (see [Simple File Verification](https://www.wikiwand.com/en/Simple_file_verification))
+Syntax highlighting for SFV files (see [Simple File Verification](https://www.wikiwand.com/en/Simple_file_verification)). Also supports extended SFV files (`.sfvx`) as introduced by [`sfv-cli`](https://www.npmjs.com/package/sfv-cli).
 
 ## Installation
 

@@ -1,0 +1,15 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: Simple File Verification Extended
+file_extensions:
+- sfvx
+
+scope: source.sfv.extended
+contexts:
+  main:
+    - match: '^\s*;.*$'
+      scope: comment.line.sfv.extended
+
+    - match: '\s+\w{32,128}$'
+      scope: constant.other.sfv.extended
